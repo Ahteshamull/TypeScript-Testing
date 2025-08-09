@@ -1,4 +1,5 @@
-const userName = 'Hasan';
-const userAge = 30;
-console.log(userName);
-console.log(userAge);
+function addNumber(num1, num2) {
+    console.log(num1 + num2)
+}
+addNumber(1, 2)
+addNumber(3, 4)
