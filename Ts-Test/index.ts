@@ -1,3 +1,3 @@
-function addNumber(num1 : 20, num3 : 30) {
-    console.log(num1 + num3 + 100);
+function addNumber(num10 : 20, num3 : 30) {
+    console.log(num10 + num3 + 100);
 }
